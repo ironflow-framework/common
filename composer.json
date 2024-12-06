@@ -1,0 +1,24 @@
+{
+    "name": "tinyforge/common",
+    "description": "Common tools for TinyForge framework",
+    "type": "library",
+    "license": "MIT",
+    "require": {
+        "vlucas/phpdotenv": "^5.5"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Tinyforge\\Common\\": "src/",
+            "Tests\\": "tests/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Aure",
+            "email": "147180124+AureDulvresse@users.noreply.github.com"
+        }
+    ]
+}
