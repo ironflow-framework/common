@@ -1,6 +1,6 @@
 {
-    "name": "tinyforge/common",
-    "description": "Common tools for TinyForge framework",
+    "name": "ironflow/common",
+    "description": "Common tools for IronFlow framework",
     "type": "library",
     "license": "MIT",
     "require": {
